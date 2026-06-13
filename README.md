@@ -43,7 +43,7 @@ O objetivo do jogador é sobreviver aos zumbis espalhados pela cidade, utilizand
 
 Substitua pelo link do vídeo:
 
-https://youtu.be/SEU_VIDEO
+![Gameplay](readme_imagens/gameplay.mp4)
 
 ---
 
