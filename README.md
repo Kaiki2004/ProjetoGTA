@@ -51,11 +51,11 @@ https://youtu.be/SEU_VIDEO
 
 ## Menu Principal
 
-![Menu](images/menu.png)
+![Menu](readme_imagens/menu.png)
 
 ## Exploração da Cidade
 
-![Cidade](images/gameplay1.png)
+![Cidade](readme_imagens/gameplay1.png)
 
 ---
 
@@ -90,7 +90,7 @@ void Update()
 
 ### Demonstração
 
-![Dia e Noite](images/dia-noite.png)
+![Dia e Noite](readme_imagens/dia-noite.png)
 
 ---
 
@@ -156,7 +156,7 @@ void Update()
 
 ### Demonstração
 
-![Farol](images/farol.png)
+![Farol](readme_imagens/farol.png)
 
 ---
 
