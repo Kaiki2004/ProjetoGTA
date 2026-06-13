@@ -53,10 +53,6 @@ https://youtu.be/SEU_VIDEO
 
 ![Menu](readme_imagens/menu.png)
 
-## Exploração da Cidade
-
-![Cidade](readme_imagens/gameplay1.png)
-
 ---
 
 # Funcionalidades Implementadas
@@ -90,7 +86,7 @@ void Update()
 
 ### Demonstração
 
-![Dia e Noite](readme_imagens/dia-noite.png)
+![Dia e Noite](readme_imagens/dia_noite.png)
 
 ---
 
@@ -129,7 +125,7 @@ private void OnCollisionStay(Collision collision)
 
 ### Demonstração
 
-![Zombie](images/zombie.png)
+![Zombie](readme_imagens/game.png)
 
 ---
 
@@ -156,7 +152,7 @@ void Update()
 
 ### Demonstração
 
-![Farol](readme_imagens/farol.png)
+![Farol](readme_imagens/dia_noite.png)
 
 ---
 
